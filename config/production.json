@@ -1,0 +1,10 @@
+{
+    "shop" : {
+        "currency": "BRL",
+        "language": "pt",
+        "weightUnit": "kg"
+    },
+    "system": {
+        "theme": "eve"
+    }
+}
